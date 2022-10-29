@@ -2,6 +2,26 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>System.Extended</Title>
+    <Version>1.0.3</Version>
+    <Copyright>Alexandr Smirnov</Copyright>
+    <PackageProjectUrl>https://github.com/LiptonDev/System.Extended</PackageProjectUrl>
+    <PackageIcon>puzzle_1.png</PackageIcon>
+    <Description>Extensions for: byte[], string, Console, LINQ, ini files, objects.</Description>
+    <Company>Alexandr Smirnov</Company>
+    <Authors>Alexandr Smirnov</Authors>
+    <PackageId>Extended</PackageId>
+    <RepositoryUrl>https://github.com/LiptonDev/System.Extended</RepositoryUrl>
+    <PackageTags>system;extended;extension;extensions;array;byte;string;linq</PackageTags>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\Alexander\Desktop\puzzle_1.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>

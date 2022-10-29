@@ -26,6 +26,7 @@ namespace System
             typeof(float),
             typeof(double),
             typeof(decimal),
+            typeof(DateTime)
         };
         }
 
